@@ -6,19 +6,19 @@
 <script type="text/javascript" src="js/jquery.flipv.js"></script>
 
 <link type="text/css" rel="stylesheet" href="css/layout.css">
-<!--		<link rel="stylesheet" type="text/css" media="all" href="css/jScrollPane.css" />-->
-<!--		<script type="text/javascript" src="js/jquery.mousewheel.js"></script>-->
-<!--		<script type="text/javascript" src="js/jScrollPane.js"></script>-->
-<!--	-->
-<!--		<script type="text/javascript">-->
-<!--			-->
-<!--			$(function()-->
-<!--			{-->
-<!--				// this initialises the demo scollpanes on the page.-->
-<!--				$('#tekstvakWerk').jScrollPane({scrollbarWidth:5});-->
-<!--			});-->
-<!--			-->
-<!--		</script>-->
+		<link rel="stylesheet" type="text/css" media="all" href="css/jScrollPane.css" />
+		<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="js/jScrollPane.js"></script>
+	
+		<script type="text/javascript">
+			
+			$(function()
+			{
+				// this initialises the demo scollpanes on the page.
+				$('#tekstvakWerk').jScrollPane({scrollbarWidth:5});
+			});
+			
+		</script>
 
 </head><body>
 <!--
